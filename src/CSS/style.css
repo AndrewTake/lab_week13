@@ -1,0 +1,43 @@
+* {
+    font-family: 'Poppins', sans-serif;
+    color: #000000;
+}
+
+body {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    padding-left: 2vmin;
+    font-size: 3vmin;
+}
+
+.original-container {
+    padding-left: 1vmin;
+    padding-top: 1vmin;
+    font-size: 3vmin;
+    width: 5vmin;
+}
+
+
+
+
+
+button {
+    display: flex;
+    flex-direction: left;
+    background-color: white;
+    color: red;
+    border: none;
+    font-size: 5vmin;
+    font-weight: bold;
+}
+
+.copies {
+    display: flex;
+    flex-direction: column;
+    padding-left: 1vmin;
+    font-size: 3vmin;
+    font-weight: bold;
+
+}
